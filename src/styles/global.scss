@@ -1,0 +1,8 @@
+$gradient_color_one: #0E4749;
+$gradient_color_two: #95c623;
+
+html, body {
+    font-family: "Courier New", Courier, monospace;
+    background: linear-gradient(to right,rgba(14, 71, 73, 0.5), rgba(149, 198, 35, 0.5)), url('../assets/bg.png');
+    background-size: cover;
+}

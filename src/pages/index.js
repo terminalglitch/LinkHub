@@ -1,6 +1,5 @@
 import React from "react";
 import Helmet from "../components/helmet";
-import "../styles/index.scss";
 import "../styles/global.scss";
 import icon from "../assets/icon.png";
 import data from "../metadata.json";
@@ -70,6 +69,16 @@ export default function Card() {
             target="_blank"
           >
             <SiKoFi className="social-icon" />
+          </a>
+        </div>
+        <div className="social-icon-container">
+          <a
+            className="button-link"
+            href="/about"
+          >
+            <div className="button">
+              <p className="button-text">About</p>
+            </div>
           </a>
         </div>
       </div>

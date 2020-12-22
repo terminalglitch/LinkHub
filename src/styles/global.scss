@@ -59,18 +59,17 @@ div.social-icon-container {
 }
 
 div.button {
-    background-color: white;
+    background-color: $gradient_color_one;
     padding: 10px;
+    margin-left:2px;
+    margin-right: 2px;
     border-radius: 10px;
-    border-color: $gradient_color_one;
-    border-width: 1px;
-    border-style: solid;
 }
 
 p.button-text {
     margin: 0px;
     font-weight: 800;
-    color: $gradient_color_one
+    color: white;
 }
 
 a.button-link {

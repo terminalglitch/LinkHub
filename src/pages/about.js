@@ -13,7 +13,8 @@ export default function about() {
                     Hi there. I'm an artist and senior computer science university student in the USA.
                     I'm not as active in fandoms as I used to be, but you can find me drawing fanart occasionally.
                     You'll find that I draw my OCs, especially Luca, far more often. I'm not at all consistent in
-                    my upload schedule, but I do my best to draw when I have the time.
+                    my upload schedule, but I do my best to draw when I have the time. I post most of my art on
+                    Instagram.
                 </p>
                 <p className="paragraph">
                     Scorpio // 4w5 // INFJ

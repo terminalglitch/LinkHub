@@ -80,6 +80,15 @@ export default function Card() {
               <p className="button-text">About</p>
             </div>
           </a>
+          <a
+            className="button-link"
+            href="https://blacklivesmatter.com/resources/"
+            rel="noreferrer"
+          >
+            <div className="button">
+              <p className="button-text">BLM Resources</p>
+            </div>
+          </a>
         </div>
       </div>
     </div>

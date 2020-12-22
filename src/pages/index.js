@@ -82,7 +82,7 @@ export default function Card() {
           </a>
           <a
             className="button-link"
-            href="https://blacklivesmatter.com/resources/"
+            href="https://blacklivesmatters.carrd.co/"
             rel="noreferrer"
           >
             <div className="button">

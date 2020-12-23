@@ -17,7 +17,7 @@ export default function Card() {
     <div className="home-container">
       <Helmet />
       <div className="top-card">
-        <img className="user-icon" src={icon} alt="test" />
+        <img className="user-icon" src={icon} alt="Digital portrait drawing of Glitch."/>
         <h1 id="name">{data.author}</h1>
         <h2 id="username">{`(${data.username})`}</h2>
         <p id="description">{data.description}</p>

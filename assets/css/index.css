@@ -1,8 +1,11 @@
-html,body {
-    font-family: "Courier New", Courier, monospace;
+html {
     background: linear-gradient(to right,rgba(14, 71, 73, 0.5), rgba(149, 198, 35, 0.5)), url('../bg.png');
     background-size: cover;
     color: #0E4749;
+}
+
+body {
+    font-family: "Courier New", Courier, monospace;
 }
 
 /* Special ids for titles and description */
